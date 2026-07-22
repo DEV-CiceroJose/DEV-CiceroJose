@@ -1,56 +1,26 @@
-<div align="center">
-  
-  # Olá, eu sou o Cícero José! 👋
-  
-  ### Desenvolvedor Apaixonado por Tecnologia
+Cícero José
 
-  <p align="center">
-    Bem-vindo ao meu perfil! Aqui você encontra um pouco sobre meus projetos e estudos.
-    <br>
-    Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e back-end.
-  </p>
+Construir produtos digitais sólidos, do produto ao deploy.
 
-</div>
+Co-CTO na Virla, atuando em produto e desenvolvimento de um marketplace de cuidado domiciliar. Trabalho em toda a cadeia — arquitetura, backend, frontend e deploy — equilibrando velocidade de entrega com qualidade de manutenção. Fora do trabalho, desenvolvo projetos autorais, incluindo jogos e ferramentas web, como forma de explorar arquitetura e design de sistemas fora do contexto profissional.
 
----
+Projetos
 
-### 🚀 Tecnologias e Ferramentas
+Virla que conecta famílias a cuidadores profissionais de saúde domiciliar. React · Node.js · Prisma · Socket.IO · Firebase Auth Arquitetura fullstack, chat em tempo real, sistema de pagamentos, deploy em produção.
 
-Estou sempre estudando e praticando. Aqui está o meu cinto de utilidades atual:
+Crônicas do Além RPG de fantasia sombria para navegador, desenvolvido em JavaScript puro. HTML · CSS · JavaScript Sistema de combate baseado em D20, três árvores de habilidades, múltiplos finais narrativos guiados por sistema de karma.
 
-<div align="center">
-  
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <br><br>
-  <strong>🌱 Atualmente Aprendendo / Estudando:</strong>
-  <br>
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-</div>
+DevLife RPG incremental sobre a progressão de carreira de um desenvolvedor de software. Unity 6 · C# · URP 2D Arquitetura orientada a eventos e dados, sistema de save, documentação completa de design.
 
----
+JavaBlocks Aplicação de desafios de programação para estudantes. React · Vite
 
-### 📊 Minhas Estatísticas no GitHub
+Principais áreas de especialização
 
-<div align="center">
-  <a href="https://github.com/DEV-CiceroJose">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEV-CiceroJose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-CiceroJose&layout=compact&theme=dracula"/>
-  </a>
-</div>
+Backend: Node.js, Express, Prisma, PostgreSQL Frontend: React, Vue.js Realtime & Infra: Socket.IO, Firebase Auth, deploy em produção (Render) Game Dev: Unity 6 (C#, URP 2D), JavaScript vanilla
 
----
 
-### 📫 Contato
+Contato
+LinkedIn: [www.linkedin.com/in/cicero-josé]
+Localização: Igarassu, PE
 
-Sinta-se à vontade para entrar em contato ou explorar meus repositórios!
-
-<div align="center">
-  <a href="https://github.com/DEV-CiceroJose">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  </div>
+Bom software não é só código que funciona — é a arquitetura que ainda faz sentido depois que o time cresce.
