@@ -34,13 +34,14 @@ Aplicação de desafios de programação para estudantes.
 **Backend:** Node.js, Express, Prisma, PostgreSQL
 **Frontend:** React, Vue.js
 **Realtime & Infra:** Socket.IO, Firebase Auth, deploy em produção (Render)
+**Game Dev:** Unity 6 (C#, URP 2D), JavaScript vanilla
 
 ---
 
 ## Métricas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-CiceroJose&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-CiceroJose&layout=compact&theme=default&hide_border=true)
+![GitHub stats](https://github-readme-stats-kappa-nine-96.vercel.app/api?username=DEV-CiceroJose&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats-kappa-nine-96.vercel.app/api/top-langs/?username=DEV-CiceroJose&layout=compact&theme=default&hide_border=true)
 
 ---
 
